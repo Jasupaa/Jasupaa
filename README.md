@@ -2,8 +2,6 @@
 
 👨‍💻 3rd-year **Computer Science** student at **University of Caloocan City**.
 
-🎮 Passionate about **game development** and working on a **logic gates simulator**.
-
 🌍 Enthusiastic about **open-ended games** like **Kenshi** and **Dwarf Fortress**.
 
 📚 Currently working on **school projects** related to **web development**.
